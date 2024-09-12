@@ -23,20 +23,24 @@ You can start editing the page by modifying `components/Pages/index.tsx`. The pa
 <br/>
 Click on the picture of the book and add it to the cart:
 <br/>
+<br/>
 <img src="https://github.com/melikajafari79/uBookShop/blob/main/20240910_194946_1910981184.jpg" />
 <br/>
 <br/>
 You can also remove the book from the cart:
+<br/>
 <br/>
 <img src="https://github.com/melikajafari79/uBookShop/blob/main/20240910_194946_1910981184.jpg" />
 <br/>
 <br/>
 Top of the page you can see the number of books & total payable :
 <br/>
+<br/>
 <img src="https://github.com/melikajafari79/uBookShop/blob/main/20240910_195221_1374374436.jpg" />
 <br/>
 <br/>
 By using the show cart button you can see the list of books in your cart:
+<br/>
 <br/>
 <img src="https://github.com/melikajafari79/uBookShop/blob/main/20240910_233730_1801194786.jpg" />
 <br/>
