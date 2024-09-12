@@ -45,6 +45,6 @@ By using the show cart button you can see the list of books in your cart:
 <img src="https://github.com/melikajafari79/uBookShop/blob/main/20240910_233730_1801194786.jpg" />
 <br/>
 <br/>
-[ArminKardan](https://github.com/ArminKardan/utrial.git) is the main source of this project.
+[ArminKardan](https://github.com/ArminKardan/ubookshop) is the main source of this project.
 <br/>
 Best regards.
